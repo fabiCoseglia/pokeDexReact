@@ -40,7 +40,7 @@ A raiz de eso decidí investigar, estudiar y aplicar lo aprendido al mismo momen
 
 ## Descripción del proyecto
 
-El proyecto PokeDex es una aplicación web basada en React que te permite explorar información sobre los diferentes Pokémon disponibles. A continuación, te brindaré una descripción general de los archivos y el código que se encuentran en el repositorio.
+El proyecto PokeDex es una aplicación web basada en React que te permite explorar información sobre los diferentes Pokémon disponibles. A continuación, te explico como está estructurado el proyecto.
 
 - **src/components/CardPokemon.jsx**: Este archivo contiene el componente principal de la aplicación, CardPokemon. Es responsable de mostrar las tarjetas de los Pokémon, filtrarlos por nombre y ordenarlos alfabéticamente. Utiliza componentes de React Bootstrap y react-router-dom para la interfaz de usuario.
 
