@@ -1,0 +1,12 @@
+@keyframes fadeAnimation {
+    0% {
+      background-color: yellow;
+    }
+    50% {
+      background-color: red;
+    }
+    100% {
+      background-color: yellow;
+    }
+  }
+  
