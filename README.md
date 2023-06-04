@@ -49,3 +49,9 @@ El proyecto PokeDex es una aplicación web basada en React que te permite explor
 - **src/contexts/PokemonContext.jsx**: Aquí se encuentra el contexto PokemonContext, que proporciona los datos de los Pokémon a los componentes hijos. Utiliza el hook useContext de React para compartir y acceder a los datos en toda la aplicación.
 
 - **src/App.jsx**: El componente App es el punto de entrada principal de la aplicación. Importa el componente CardPokemon y envuelve toda la aplicación con el PokemonContext.Provider para proporcionar los datos del contexto a los componentes hijos.
+
+## URL proyecto deploy:
+
+https://poke-dex-react.vercel.app/
+
+* Ten en cuenta que el pedido a la API puede demorar, es posible que debas esperar la respesta D:
